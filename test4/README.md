@@ -3,5 +3,5 @@
 Tutoriel Gogs
 
 
-![GitHub Logo](/images/2_git_clone.png)
+![GitHub Logo](https://github.com/adrienED/test/blob/master/test4/2_git_clone.png)
 Format: ![Alt Text](url)
